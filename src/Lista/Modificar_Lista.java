@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Modificar_Lista {
 	
 	// contador é a variável responsável por controlar a lista e list é o array da lista em sí.
-	private final int TAMANHO = 10;
+	private final int TAMANHO = 20;
 	private int[] list = new int[TAMANHO];
 	private int contador;
 	
